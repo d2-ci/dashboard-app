@@ -56,6 +56,10 @@ self.__precacheManifest = [
     "url": "./static/media/roboto-latin-400.5d4aeb4e.woff2"
   },
   {
+    "revision": "bafb105baeb22d965c70fe52ba6b49d9",
+    "url": "./static/media/roboto-latin-400.bafb105b.woff"
+  },
+  {
     "revision": "d8bcbe724fd6f4ba44d0ee6a2675890f",
     "url": "./static/media/roboto-latin-400italic.d8bcbe72.woff2"
   },
@@ -110,10 +114,6 @@ self.__precacheManifest = [
   {
     "revision": "bc833e725c137257c2c42a789845d82f",
     "url": "./static/media/roboto-latin-900italic.bc833e72.woff"
-  },
-  {
-    "revision": "bafb105baeb22d965c70fe52ba6b49d9",
-    "url": "./static/media/roboto-latin-400.bafb105b.woff"
   },
   {
     "revision": "3e4cdb7680af107b52e0bcdb8e52bed0",
