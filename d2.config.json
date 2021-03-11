@@ -1,8 +1,8 @@
 {
   "type": "app",
-  "coreApp": true,
+  "name": "dashboard",
   "title": "Dashboard",
-  "name": "dashboard-app",
+  "coreApp": true,
   "version": "31.0.1",
   "description": "DHIS2 Dashboard app"
 }
