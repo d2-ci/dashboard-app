@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "./static/media/roboto-latin-300.a1471d1d.woff"
   },
   {
-    "revision": "d69924b98acd849cdeba9fbff3f88ea6",
-    "url": "./static/media/roboto-latin-300italic.d69924b9.woff2"
-  },
-  {
     "revision": "210a7c781f5a354a0e4985656ab456d9",
     "url": "./static/media/roboto-latin-300italic.210a7c78.woff"
+  },
+  {
+    "revision": "d69924b98acd849cdeba9fbff3f88ea6",
+    "url": "./static/media/roboto-latin-300italic.d69924b9.woff2"
   },
   {
     "revision": "5d4aeb4e5f5ef754e307d7ffaef688bd",
