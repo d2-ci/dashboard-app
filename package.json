@@ -22,7 +22,7 @@
         "classnames": "^2.2.6",
         "d2": "^31.9.3",
         "d2-utilizr": "^0.2.16",
-        "i18next": "^19.9.0",
+        "i18next": "^20.1.0",
         "lodash": "^4.17.21",
         "moment": "^2.29.1",
         "react": "^16.14.0",
@@ -65,7 +65,7 @@
         "enzyme-to-json": "^3.6.1",
         "eslint-plugin-cypress": "^2.11.2",
         "immutability-helper": "^3.1.1",
-        "patch-package": "^6.2.2",
+        "patch-package": "^6.4.7",
         "postinstall-postinstall": "^2.1.0",
         "redux-mock-store": "^1.5.4"
     },
