@@ -3,7 +3,7 @@
   "short_name": "dashboard",
   "name": "Dashboard",
   "description": "DHIS2 Dashboard app",
-  "version": "31.17.6",
+  "version": "31.17.8",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -15,7 +15,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Mon Aug 23 2021 10:44:33 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Thu Aug 26 2021 08:20:13 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
