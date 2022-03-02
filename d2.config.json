@@ -1,0 +1,10 @@
+{
+  "type": "app",
+  "name": "dashboard",
+  "title": "Dashboard",
+  "coreApp": true,
+  "id": "97192bad-afc0-458e-96b9-cdd351f2896b",
+  "minDHIS2Version": "2.31",
+  "version": "31.22.2",
+  "description": "DHIS2 Dashboard app"
+}
