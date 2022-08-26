@@ -1,9 +1,9 @@
 {
   "appType": "APP",
-  "short_name": "dashboard-app",
+  "short_name": "dashboard",
   "name": "Dashboard",
-  "description": "DHIS2 Dashboards app",
-  "version": "31.0.1",
+  "description": "DHIS2 Dashboard app",
+  "version": "99.9.13",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -15,7 +15,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Tue Sep 22 2020 08:37:32 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Fri Aug 26 2022 12:07:56 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
