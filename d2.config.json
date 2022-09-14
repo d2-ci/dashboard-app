@@ -3,6 +3,6 @@
   "name": "dashboard",
   "title": "Dashboard",
   "coreApp": true,
-  "version": "99.9.12",
+  "version": "99.9.13",
   "description": "DHIS2 Dashboard app"
 }
