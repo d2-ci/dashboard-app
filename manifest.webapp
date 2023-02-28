@@ -3,9 +3,10 @@
   "short_name": "dashboard",
   "name": "Dashboard",
   "description": "DHIS2 Dashboard app",
-  "version": "99.10.8",
+  "version": "99.10.9",
   "core_app": true,
   "launch_path": "index.html",
+  "plugin_launch_path": "plugin.html",
   "default_locale": "en",
   "activities": {
     "dhis": {
@@ -15,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Fri Jan 13 2023 11:45:50 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Tue Feb 28 2023 15:05:14 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
