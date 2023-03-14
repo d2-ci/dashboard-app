@@ -3,7 +3,7 @@
   "name": "dashboard",
   "title": "Dashboard",
   "coreApp": true,
-  "version": "99.10.12",
+  "version": "99.10.13",
   "description": "DHIS2 Dashboard app",
   "entryPoints": {
     "app": "index.html"
