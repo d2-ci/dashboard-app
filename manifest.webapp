@@ -6,7 +6,6 @@
   "version": "99.10.10",
   "core_app": true,
   "launch_path": "index.html",
-  "plugin_launch_path": "plugin.html",
   "default_locale": "en",
   "activities": {
     "dhis": {
@@ -16,7 +15,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Wed Mar 22 2023 15:30:50 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Thu Mar 23 2023 08:54:05 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
