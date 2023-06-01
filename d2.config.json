@@ -4,5 +4,8 @@
   "title": "Dashboard",
   "coreApp": true,
   "version": "31.22.2",
-  "description": "DHIS2 Dashboard app"
+  "description": "DHIS2 Dashboard app",
+  "entryPoints": {
+    "app": "index.html"
+  }
 }
