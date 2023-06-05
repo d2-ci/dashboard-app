@@ -3,8 +3,9 @@
   "name": "dashboard",
   "title": "Dashboard",
   "coreApp": true,
+  "id": "8a05188c-5b2d-496d-a08e-595810748d52",
   "minDHIS2Version": "2.40",
-  "version": "99.11.7",
+  "version": "99.99.9",
   "description": "DHIS2 Dashboard app",
   "entryPoints": {
     "app": "index.html"
