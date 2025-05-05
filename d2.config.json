@@ -6,7 +6,7 @@
   "id": "8a05188c-5b2d-496d-a08e-595810748d52",
   "minDHIS2Version": "2.40",
   "direction": "auto",
-  "version": "101.2.3",
+  "version": "101.3.0",
   "description": "DHIS2 Dashboard app",
   "entryPoints": {
     "app": "index.html"
