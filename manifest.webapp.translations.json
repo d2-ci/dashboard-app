@@ -1,23 +1,33 @@
 [
   {
     "locale": "ar",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "لوحة المعلومات",
+    "description": ""
   },
   {
     "locale": "ar_IQ",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "لوحة المعلومات",
+    "description": ""
   },
   {
     "locale": "ckb",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "شيتةل كردني داتا",
+    "description": ""
   },
   {
     "locale": "cs",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Ovládací panel",
+    "description": ""
   },
   {
     "locale": "da",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Dashboard",
+    "description": ""
   },
   {
     "locale": "en",
@@ -27,7 +37,9 @@
   },
   {
     "locale": "es",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Tablero",
+    "description": ""
   },
   {
     "locale": "es_419",
@@ -35,7 +47,9 @@
   },
   {
     "locale": "fr",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Tableau de bord",
+    "description": ""
   },
   {
     "locale": "hi_IN",
@@ -43,43 +57,63 @@
   },
   {
     "locale": "id",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Dasbor",
+    "description": ""
   },
   {
     "locale": "km",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "ផ្ទាំងប៉ាណ្ណូបរិធាន",
+    "description": "កម្មវិធីផ្ទាំងប៉ាណ្ណូបរិធាន"
   },
   {
     "locale": "lo",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "ກະດານຂ່າວ",
+    "description": ""
   },
   {
     "locale": "my",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "အချက်အလက်များလေ့လာဆန်းစစ်ခြင်း",
+    "description": ""
   },
   {
     "locale": "nb",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Dashbord",
+    "description": ""
   },
   {
     "locale": "nl",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Dashboard",
+    "description": ""
   },
   {
     "locale": "prs",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "داشبورد",
+    "description": ""
   },
   {
     "locale": "ps",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "ډېشبورډ [ ډېسبورډ ]",
+    "description": ""
   },
   {
     "locale": "pt",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Painel de Instrumentos",
+    "description": ""
   },
   {
     "locale": "pt_BR",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Gráficos",
+    "description": ""
   },
   {
     "locale": "ro",
@@ -87,7 +121,9 @@
   },
   {
     "locale": "ru",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Инфопанель",
+    "description": ""
   },
   {
     "locale": "si",
@@ -95,23 +131,33 @@
   },
   {
     "locale": "sv",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "instrumentbräda",
+    "description": ""
   },
   {
     "locale": "tet",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Painel Kontrolu",
+    "description": ""
   },
   {
     "locale": "tg",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Лавҳаи маълумот",
+    "description": ""
   },
   {
     "locale": "uk",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Інформаційна панель (дашборд)",
+    "description": ""
   },
   {
     "locale": "ur",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "ڈیشبورڈ",
+    "description": ""
   },
   {
     "locale": "uz_Cyrl",
@@ -123,22 +169,32 @@
   },
   {
     "locale": "uz_UZ_Cyrl",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Бошқарув панели",
+    "description": ""
   },
   {
     "locale": "uz_UZ_Latn",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Boshqaruv paneli",
+    "description": ""
   },
   {
     "locale": "vi",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Bảng thông tin",
+    "description": ""
   },
   {
     "locale": "zh",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "仪表盘",
+    "description": "DHIS2 驾驶舱小程序"
   },
   {
     "locale": "zh_CN",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "状态面板",
+    "description": ""
   }
 ]
